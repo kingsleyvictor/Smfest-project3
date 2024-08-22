@@ -412,3 +412,13 @@ font-weight: 600;
 .basic span{
     text-decoration: line-through;
 }
+.back-to-top{
+    position: fixed;
+    bottom: 10px;
+    right: 15px;
+    background: transparent;
+    padding:10px 15px;
+    color: white;
+    border: 1px solid rgb(224, 223, 223);
+    border-radius:6px;
+}
