@@ -2,6 +2,9 @@
     margin: 0;
     padding:0;
 }
+html{
+    overflow-x: hidden;
+}
 body{
     overflow-x: hidden;
 }
@@ -414,7 +417,7 @@ font-weight: 600;
 }
 .back-to-top{
     position: fixed;
-    bottom: 10px;
+    bottom: 50px;
     right: 15px;
     background: transparent;
     padding:10px 15px;
